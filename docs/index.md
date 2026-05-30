@@ -3,10 +3,10 @@ hero:
   title: library
   description: A react library developed with dumi. For example： RuleTree
   actions:
-    - text: Hello
-      link: /
-    - text: World
-      link: /
+    - text: 开发指南
+      link: /guide
+    - text: 组件
+      link: /components/foo
 features:
   - title: Hello
     emoji: 💎
@@ -18,5 +18,3 @@ features:
     emoji: 🚀
     description: Put ! description here
 ---
-
-xgb-components

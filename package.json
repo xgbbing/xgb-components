@@ -1,7 +1,7 @@
 {
-  "name": "xgb-components",
+  "name": "@xgb/react-components",
   "version": "0.0.1",
-  "description": "A react library developed with dumi. For example： RuleTree",
+  "description": "A react library developed with dumi.",
   "license": "MIT",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -54,6 +54,7 @@
     "eslint": "^8.23.0",
     "father": "^4.1.0",
     "husky": "^8.0.1",
+    "less": "^4.6.4",
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1",
     "prettier-plugin-organize-imports": "^3.0.0",

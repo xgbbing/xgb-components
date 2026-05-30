@@ -1,4 +1,4 @@
-# xgb-components
+# @xgb/react-components
 
 [![NPM version](https://img.shields.io/npm/v/xgb-rule-tree.svg?style=flat)](https://npmjs.org/package/xgb-rule-tree)
 [![NPM downloads](http://img.shields.io/npm/dm/xgb-rule-tree.svg?style=flat)](https://npmjs.org/package/xgb-rule-tree)

@@ -1,9 +1,9 @@
 import React, { type FC } from 'react';
 
-import styles from './index.module.less';
+import './index.less';
 
 const Foo: FC<{ title: string }> = (props) => (
-  <div className={styles.title}>{props.title}</div>
+  <div className="title">{props.title}</div>
 );
 
 export default Foo;
